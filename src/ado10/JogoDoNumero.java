@@ -40,7 +40,7 @@ public class JogoDoNumero {
 
 		}
 		if (i == 0) {
-			System.err.println("GAME OVER!");
+			System.err.println("GAME OVER!!");
 		}
 	}
 
